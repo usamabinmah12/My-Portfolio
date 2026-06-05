@@ -30,7 +30,7 @@ The portfolio highlights my work, technical skills, and provides an easy way for
 * CSS3
 * Framer Motion (animations)
 * Lenis (smooth scrolling)
-* Tailwind CSS (if applicable)
+* Tailwind CSS
 
 ## 🎯 Purpose
 
